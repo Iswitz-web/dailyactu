@@ -6,8 +6,7 @@
 
 + Le bot a pour objectif de twitter chaque jour à une heure précise (actuellement 19H00) un court résumé de l'actualité sous forme de 4 à 5 phrases.
 + Il a été lancé le 26/12/2020 et est hébergé sur un Raspberry Pi 4 B
-+ La dernière modification du projet date du 22/01/2021 (v2 soon)
-+ La version 2 est actuellement en bêta-test
++ La dernière modification du projet date du 04/11/2021 (il est en version 2)
 
 ## Langages utilisés
 
