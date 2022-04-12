@@ -34,6 +34,7 @@
 + Une amélioration de la récupération des titres de l'actualité
 + L'algorithme sera capable de détecter le sujet d'un verbe
 + Changement de l'api concernant les verbes pour avoir davantage d'informations sur un verbe
++ Une version 3 utilisant l'intelligence artificielle
 
 ## Screenshots 
 
