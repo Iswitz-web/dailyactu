@@ -36,6 +36,15 @@
 + Changement de l'api concernant les verbes pour avoir davantage d'informations sur un verbe
 + Une version 3 utilisant l'intelligence artificielle
 
+## Un aperçu de la nouvelle version
+
++ Le partage des sources s'effectuera sur un site dédié et performant
++ Le bot sera capable de trier les titres de l'actualité par ordre d'importance et de compréhension
++ Il devrait pouvoir reformuler les titres pour être au plus proche de la réalité
++ Les titres de l'actualité ne seront plus obtenus à partir d'une unique source
++ La retransmission de l'actualité ne sera plus subjective, elle se concentrera sur la France et le reste du monde
++ Le bot pourra ainsi acquérir une nouvelle fonction, d'actualité en continu et mondiale relayant aussi bien des sujets populaires que des sujets importants mais oubliés
+
 ## Screenshots 
 
 ![Exemple de tweet](https://i.imgur.com/hrOA7W8.png)
